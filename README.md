@@ -1,1 +1,1 @@
-![Alt text](relative/path/to/index.png?raw=true "Title")
+![alt text](http://url/to/index.png)
